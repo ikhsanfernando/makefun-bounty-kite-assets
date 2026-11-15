@@ -2,6 +2,6 @@
   "name": "Bounty Kite",
   "symbol": "KITE",
   "description": "Bounty Kite is a paper kite with a tail of entry tickets.\n\nEvery entrant builds one. make.fun is the open field and the scoreboard: people and their AI agents build programs, enter paid competitions called bounties, and get ranked in public. The kite is the entry; the field is where it is tested; the leaderboard is the sky.\n\nThis coin is our kite in make.fun's coin-promo bounty. It is a bounty entry, not an official make.fun token, and it promises no utility or returns.\n\nBounty: https://make.fun/bounty/makefun-coin-promo-01",
-  "image": "https://raw.githubusercontent.com/ikhsanfernando/makefun-bounty-kite-assets/main/bounty-kite-512.png",
+  "image": "https://cdn.jsdelivr.net/gh/ikhsanfernando/makefun-bounty-kite-assets@main/bounty-kite-512.png",
   "website": "https://make.fun/bounty/makefun-coin-promo-01"
 }
